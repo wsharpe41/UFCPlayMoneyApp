@@ -16,7 +16,6 @@ async function getEventLinks() {
     const eventLinks = Array.from(headlineElements).map((element) => {
         return element.querySelector('a').getAttribute('href');
     });
-    
     return eventLinks;
 }
 
