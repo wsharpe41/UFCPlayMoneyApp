@@ -1,0 +1,5 @@
+Want to host it on the web 
+Want to have data on the next card(s)
+List of fights
+For each opponent get list of last fights
+Integrate odds for each fights (referral codes?)
